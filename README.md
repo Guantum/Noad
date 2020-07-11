@@ -1,2 +1,2 @@
 # Noad
-[QxRule.list](https://raw.githubusercontent.com/Guantum/Noad/master/Quanx.list)
+[QuanxRule.list](https://raw.githubusercontent.com/Guantum/Noad/master/Quanx.list)
