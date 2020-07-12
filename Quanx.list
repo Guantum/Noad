@@ -1,6 +1,5 @@
 #2020
 DOMAIN-KEYWORD,.cn,DIRECT
-ip-cidr,119.29.29.29/33,reject
 DOMAIN-SUFFIX,amap.com,DIRECT
 DOMAIN-SUFFIX,toutiaocloud.com,DIRECT
 DOMAIN-SUFFIX,pddpic.com,DIRECT
