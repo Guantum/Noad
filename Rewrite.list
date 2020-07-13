@@ -1,1 +1,1 @@
-^https?://(www.)?google.com.([a-z][a-z])$ url 302 https://www.google.com/ncr
+^https?://(www.)?google.com.([a-z][a-z]) url 302 https://www.google.com
