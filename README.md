@@ -1,4 +1,5 @@
 # Noad
 For own use.
 
-[QuanxRule.list](https://raw.githubusercontent.com/Guantum/Noad/master/Quanx.list)
+[Quanx.list](https://raw.githubusercontent.com/Guantum/Noad/master/Quanx.list)
+[Rew.list](https://raw.githubusercontent.com/Guantum/Noad/master/Rewrite.list)
