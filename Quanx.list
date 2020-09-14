@@ -87,6 +87,8 @@ DOMAIN-SUFFIX,github.com,PROXY
 DOMAIN-KEYWORD,apple,DIRECT-IOS
 DOMAIN-KEYWORD,itunes,DIRECT-IOS
 DOMAIN-KEYWORD,icloud,DIRECT-IOS
+DOMAIN-SUFFIX,icloud-content.com,DIRECT-IOS
+DOMAIN-SUFFIX,ios.apps.itunes.apple.com,DIRECT-IOS
 ## 常见广告域名关键字
 DOMAIN-KEYWORD,admarvel,REJECT
 DOMAIN-KEYWORD,admaster,REJECT
@@ -111,6 +113,12 @@ DOMAIN-KEYWORD,umeng,REJECT
 DOMAIN-KEYWORD,usage,REJECT
 DOMAIN-KEYWORD,wlmonitor,REJECT
 DOMAIN-KEYWORD,zjtoolbar,REJECT
+DOMAIN-KEYWORD,wenxuecity,PROXY
+DOMAIN-KEYWORD,sankuai,REJECT
+DOMAIN-KEYWORD,dianping.com,REJECT
+DOMAIN-SUFFIX,minorshort.weixin.qq.com,REJECT
+DOMAIN-SUFFIX,mazu.m.qq.com,REJECT
+DOMAIN-SUFFIX,api-unionid.meituan.com,REJECT
 #待反馈是否误杀
 #百度（可能有多余项）
 DOMAIN-SUFFIX,eclick.baidu.com,Reject
