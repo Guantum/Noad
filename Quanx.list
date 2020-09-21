@@ -114,11 +114,8 @@ DOMAIN-KEYWORD,usage,REJECT
 DOMAIN-KEYWORD,wlmonitor,REJECT
 DOMAIN-KEYWORD,zjtoolbar,REJECT
 DOMAIN-KEYWORD,wenxuecity,PROXY
-DOMAIN-KEYWORD,sankuai,REJECT
-DOMAIN-KEYWORD,dianping.com,REJECT
 DOMAIN-SUFFIX,minorshort.weixin.qq.com,REJECT
 DOMAIN-SUFFIX,mazu.m.qq.com,REJECT
-DOMAIN-SUFFIX,api-unionid.meituan.com,REJECT
 #待反馈是否误杀
 #百度（可能有多余项）
 DOMAIN-SUFFIX,eclick.baidu.com,Reject
