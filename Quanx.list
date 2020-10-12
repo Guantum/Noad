@@ -261,7 +261,6 @@ DOMAIN-SUFFIX,ad.api.moji.com,REJECT
 #DongFangTouTiao&ByteDance
 DOMAIN-SUFFIX,dig.bdurl.net,REJECT
 DOMAIN-SUFFIX,ad.toutiao.com,REJECT
-DOMAIN-SUFFIX,snssdk.com,REJECT
 DOMAIN-SUFFIX,is.snssdk.com,REJECT
 DOMAIN-SUFFIX,abtest-ch.snssdk.com,REJECT
 DOMAIN-SUFFIX,isub.snssdk.com,REJECT
