@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,360buyimg.com,DIRECT
 DOMAIN-SUFFIX,autonavi.com,DIRECT
 DOMAIN-SUFFIX,bdimg.com,DIRECT
 DOMAIN-SUFFIX,amap.com,DIRECT
-DOMAIN-SUFFIX,toutiaocloud.com,DIRECT
+DOMAIN-SUFFIX,cloud.com,DIRECT
 DOMAIN-SUFFIX,pddpic.com,DIRECT
 DOMAIN-SUFFIX,youku.com,DIRECT
 DOMAIN-SUFFIX,meituan.com,DIRECT
@@ -80,7 +80,6 @@ DOMAIN-SUFFIX,ad.ixigua.com,REJECT
 DOMAIN-SUFFIX,ad.api.moji.com,REJECT
 DOMAIN-SUFFIX,umeng.com,REJECT
 DOMAIN-SUFFIX,umengcloud.com,REJECT
-DOMAIN-KEYWORD,pstatp.com,REJECT
 DOMAIN-SUFFIX,githubusercontent.com,PROXY
 DOMAIN-SUFFIX,github.com,PROXY
 #APPLE
@@ -259,6 +258,7 @@ DOMAIN-SUFFIX,sdktm.w.inmobi.cn,REJECT
 #Moji Tianqi
 DOMAIN-SUFFIX,ad.api.moji.com,REJECT
 #DongFangTouTiao&ByteDance
+DOMAIN-SUFFIX,googletagmanager,REJECT
 DOMAIN-SUFFIX,dig.bdurl.net,REJECT
 DOMAIN-SUFFIX,ad.toutiao.com,REJECT
 DOMAIN-SUFFIX,is.snssdk.com,REJECT
