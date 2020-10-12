@@ -258,7 +258,7 @@ DOMAIN-SUFFIX,sdktm.w.inmobi.cn,REJECT
 #Moji Tianqi
 DOMAIN-SUFFIX,ad.api.moji.com,REJECT
 #DongFangTouTiao&ByteDance
-DOMAIN-SUFFIX,googletagmanager,REJECT
+DOMAIN-KEYWORD,googletagmanager,REJECT
 DOMAIN-SUFFIX,dig.bdurl.net,REJECT
 DOMAIN-SUFFIX,ad.toutiao.com,REJECT
 DOMAIN-SUFFIX,is.snssdk.com,REJECT
