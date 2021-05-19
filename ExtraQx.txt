@@ -8,6 +8,16 @@ DOMAIN-KEYWORD,itunes,MANUAL-IOS
 DOMAIN-KEYWORD,icloud,MANUAL-IOS
 DOMAIN-SUFFIX,icloud-content.com,MANUAL-IOS
 DOMAIN-SUFFIX,ios.apps.itunes.apple.com,MANUAL-IOS
+#IOS
+DOMAIN-SUFFIX,gdmf.apple.com,REJECT
+DOMAIN-SUFFIX,ocsp.apple.com,REJECT
+DOMAIN-SUFFIX,xp.apple.com,REJECT
+DOMAIN-SUFFIX,mesu.apple.com,REJECT
+DOMAIN-SUFFIX,appldnld.apple.com,REJECT
+DOMAIN-SUFFIX,gg.apple.com,REJECT
+DOMAIN-SUFFIX,ns.itunes.apple.com,REJECT
+DOMAIN-SUFFIX,swscan.apple.com,REJECT
+
 
 USER-AGENT,WeChat*,DIRECT
 USER-AGENT,NeteaseMusic*,DIRECT
