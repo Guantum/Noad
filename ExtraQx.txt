@@ -130,7 +130,11 @@ DOMAIN-SUFFIX,images.pinduoduo.com,REJECT
 DOMAIN-SUFFIX,githubusercontent.com,PROXY
 DOMAIN-SUFFIX,github.com,PROXY
 DOMAIN-KEYWORD,wikipedia,PROXY
+#PayPal
+USER-AGENT,PayPal*,PROXY
 DOMAIN-KEYWORD,paypal,PROXY
+DOMAIN-SUFFIX,paypal.com,PROXY
+DOMAIN-SUFFIX,paypalobjects.com,PROXY
 
 #Twitter
 DOMAIN-SUFFIX,pscp.tv,PROXY
