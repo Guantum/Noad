@@ -238,3 +238,11 @@ DOMAIN-SUFFIX,gvt3.com,PROXY
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com,PROXY
 IP-CIDR,173.194.0.0/16,PROXY,no-resolve
 IP-CIDR,74.125.0.0/16,PROXY,no-resolve
+
+#付呗收款码支付后跳转到的广告地址（支付宝内）
+DOMAIN-SUFFIX,tuisnake.com,Reject
+DOMAIN-SUFFIX,.duiba.com.cn,Reject
+DOMAIN-SUFFIX,.dui88.com,Reject
+#others
+DOMAIN-SUFFIX,kikibt8.com,Reject
+DOMAIN-SUFFIX,kikibt8.xyz,Reject
