@@ -13,7 +13,7 @@ DOMAIN,e.crashlytics.com,REJECT
 DOMAIN,safebrowsing.googleapis.com,REJECT
 DOMAIN,safebrowsing.urlsec.qq.com,REJECT
 #APPLE
-USER-AGENT,com.apple.trustd*,Apple
+#USER-AGENT,com.apple.trustd*,Apple
 USER-AGENT,com.apple.appstored*,Apple
 USER-AGENT,AppStore*,Apple
 USER-AGENT,cloudd*,Apple
