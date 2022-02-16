@@ -138,7 +138,7 @@ DOMAIN-SUFFIX,ad.ixigua.com,REJECT
 DOMAIN-SUFFIX,img.ljcdn.com,REJECT
 DOMAIN-SUFFIX,be-pack.pglstatp-toutiao.com,REJECT
 DOMAIN-SUFFIX,images.pinduoduo.com,REJECT
-
+HOST-SUFFIX,nb-ad-oss-bucket-ol.oss-cn-hangzhou.aliyuncs.com,REJECT
 DOMAIN-SUFFIX,githubusercontent.com,PROXY
 DOMAIN-SUFFIX,github.com,PROXY
 DOMAIN-KEYWORD,wikipedia,PROXY
