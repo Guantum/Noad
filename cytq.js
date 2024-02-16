@@ -1,6 +1,9 @@
+/*
+
+
 [rewrite_local]
 
-^http[s]?:\/\/biz\.(caiyunapp|cyapi)\.(com|cn)\/v2\/user.*$ url script-response-body https://raw.githubusercontent.com/Guantum/Noad/master/cytq.js
+^http[s]?:\/\/biz\.(caiyunapp|cyapi)\.(com|cn)\/v2\/user.*$ url script-response-body https://raw.githubusercontent.com/WeiRen0/Scripts/main/cytq.js
 
 [mitm]
 hostname = *.caiyunapp.*,*cyapi*
